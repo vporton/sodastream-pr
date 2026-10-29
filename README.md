@@ -6,6 +6,7 @@ A multilingual **draft** about Victor Porton, his work at SodaStream, and his in
 
 ## Files
 
+- [Как послать пресс-релиз?][how.md]
 - [Original prompt and editorial instructions (Russian)](prompt.md)
 - [Press release — English](press-release-en.md)
 - [Пресс-релиз — русский перевод](press-release-ru.md)
